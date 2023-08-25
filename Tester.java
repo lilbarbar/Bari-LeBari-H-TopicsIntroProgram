@@ -18,6 +18,7 @@ public class Tester {
 
         Hero hero;
 
+        // hello
         if (option.equalsIgnoreCase("yes")) {
             String heroName, heroPower;
             int heroAge;
